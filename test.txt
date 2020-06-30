@@ -2,3 +2,4 @@
 this is branch test
 このテストファイルを用いていくつかテストを行います。
 thirdテスト
+add_secondブランチで追加した文言です。
